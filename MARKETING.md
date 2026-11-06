@@ -10,14 +10,19 @@ FuelSeal seals a deterministic fuel log into a QuantumGuard CONTRACT-v1 pack. Cl
 No SaaS. Pay once. Offline. Pairs with EquipmentSeal.
 
 ## Pricing (test mode)
-- Operator: $39
+- Operator: $39 — [Test Checkout](https://buy.stripe.com/test_00w6oGeplgRG69i8WIew804)
 - Command: $129
 - Agency: $349
+
+Product IDs (test):
+- Operator: prod_Va08hTATMKu4Xb
+- Command: prod_Va08mnA1tkufWR
+- Agency: prod_Va08ZxQNC4RNZr
 
 Contact: danpennic@gmail.com
 
 ## Next
-- Create Stripe products / payment links
+- Switch to live mode when ready
 - Add to operatorpages.com catalog
 - Design-partner onboarding
 - Target equipment rental companies, contractors, and fleet managers
