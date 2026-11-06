@@ -1,0 +1,34 @@
+{
+  "job_id": "JOB-2026-1106-FUEL",
+  "date": "2026-11-06",
+  "site": "Missouri Field Site A",
+  "operator": "Field Op 1",
+  "fuel_entries": [
+    {
+      "type": "purchase",
+      "source": "Local Diesel Station",
+      "liters": 150.0,
+      "cost_usd": 135.50,
+      "receipt_id": "RCPT-2026-1106-01",
+      "notes": "Bulk diesel purchase"
+    },
+    {
+      "type": "dispense",
+      "asset_id": "EXC-4500",
+      "liters": 38.5,
+      "hours_linked": 7.5,
+      "notes": "Excavator operation"
+    },
+    {
+      "type": "dispense",
+      "asset_id": "GEN-200",
+      "liters": 22.0,
+      "hours_linked": 8.0,
+      "notes": "Generator rental"
+    }
+  ],
+  "total_purchased_liters": 150.0,
+  "total_dispensed_liters": 60.5,
+  "variance_liters": 89.5,
+  "signature_note": "Fuel evidence sealed. Pairs with EquipmentSeal."
+}
